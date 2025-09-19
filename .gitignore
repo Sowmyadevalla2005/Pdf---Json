@@ -1,0 +1,13 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore backup git folder
+.git_backup/
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+
+# Ignore PDFs and JSON outputs
+*.pdf
+*.json
